@@ -1,0 +1,30 @@
+name: Generate Distro Snake GIF
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Distro Snake GIF
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate GIF
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: Upload SVG
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          commit_message: "Updated snake animation"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          files: dist/github-contribution-grid-snake.svg
+          branch: main
