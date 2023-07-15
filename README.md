@@ -4,16 +4,16 @@ I'm also interested in servers and machine learning!
 ___
 ### 🛠 Tech Stack 🛠
 
-📌 Programming Language
+📌 Programming Language<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-📌 Framework
+📌 Framework<br>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/drf-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-📌 Deploy
+📌 Deploy<br>
 <img src="https://img.shields.io/badge/Amazone-FF9000?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-📌 Tools
+📌 Tools<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 ___
