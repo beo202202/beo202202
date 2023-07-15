@@ -1,19 +1,19 @@
-### Hi there 👋
-I'm Juneyoung Lee, an aspiring backend developer.
+## Hi there 👋
+I'm Juneyoung Lee, an aspiring backend developer.<br>
 I'm also interested in servers and machine learning!
 ___
-### 🛠 Tech Stack 🛠
+## 🛠 Tech Stack 🛠
 
-📌 Programming Language<br>
+###📌 Programming Language<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-📌 Framework<br>
+###📌 Framework<br>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/drf-092E20?style=for-the-badge&logo=django&logoColor=white">
 
-📌 Deploy<br>
+###📌 Deploy<br>
 <img src="https://img.shields.io/badge/Amazone-FF9000?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-📌 Tools<br>
+###📌 Tools<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
 ___
@@ -25,6 +25,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beo202202&layout=compact)](https://github.com/beo202202/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beo202202&show_icons=true&theme=tokyonight)
+<br>
 
 ![snake gif](https://github.com/beo202202/beo202202/blob/output/github-contribution-grid-snake.gif)
 
